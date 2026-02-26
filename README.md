@@ -1,6 +1,8 @@
 ## Hola, soy Jonathan Rosas <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+Economist;I'm+also+a+University+Professor" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Estudié+economía+en+la+UPAO+en+Trujillo;y+tengo+una+maestría+en+estadística+aplicada+por+la+UNT;y+en+Análisis+Económico+Especializado+en+BSE" />
+  </a>
 </p>
 
  **Contacto:**  
