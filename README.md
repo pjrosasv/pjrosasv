@@ -1,16 +1,15 @@
-## Hola, soy Jonathan Rosas <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=De+Piura" />
-  </a>
-</p>
+## Jonathan Rosas
 
- **Contacto:**  
+Economista | Banco Central de Reserva del Perú
 
-  <a  href="https://www.linkedin.com/in/percyjrosas" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
-  <a href="mailto:jonathan.rosas@bcrp.gob.pe?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
-  </a>
+Desarrollo herramientas para el procesamiento de imágenes satelitales, análisis de datos y modelos de Machine Learning aplicados al sector agrícola.
 
+### Contacto
+
+<a href="mailto:jonathan.rosas@bcrp.gob.pe">
+  <img src="https://img.shields.io/badge/Correo_Institucional-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/percyjrosas">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
